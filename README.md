@@ -12,6 +12,14 @@ Our goal is to create a multi image classification model by using artificial int
 ## Data Understanding
 The data used was from Kaggle,([you can find it here](https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset) )a yoga pose data set. That consist of 1550 images with Rgb color values with an alpha channel which specifies the opacity for a color. We analyze 1550 still images from 5 image classes to create a multi-image classification model that would help their marketing department correctly identify image classes. With our analysis and modeling.
 
+<img width="1263" alt="Screen Shot 2023-01-13 at 3 17 07 PM" src="https://user-images.githubusercontent.com/109767578/212411662-255c6454-c525-40b8-934f-bf184c3e0513.png">
+
 ## Data Preparation
 I'll be taking a set of images and training different machine learning models on them to try and create a model that is better than the baseline model accuracy.
 
+`Downward dog pose`  
+`Tree pose`  
+`Plank pose`  
+`Goddess pose`  
+`Warrior 2 pose`  
+ 
