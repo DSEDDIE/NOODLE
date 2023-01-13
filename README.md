@@ -47,7 +47,19 @@ So Lululemon can take the information relay back to the customer and informed th
 ## For More Information
 Please review my full analysis in [my Jupyter Notebook](https://github.com/DSEDDIE/lulu_multi_image_proj/blob/main/Lululemon%20final%20notebook.ipynb) or my [presentation](https://github.com/DSEDDIE/lulu_multi_image_proj/blob/main/Presentation.pdf).
  
-For any additional questions, please contact 
+For any additional questions, please contact Edward Juarez | mr.edwardjuarez@gmail.com
+
+## Repository Structure
+```
+├── DATASET                         <- Both sourced externally and generated from code
+├── IMAGES                          <- Both sourced externally and generated from code
+├── .gitignore                      <- list of ignore files
+├── LICENSE                         <- License
+├── Lululemon final notebook.ipynb  <- Narrative documentation of analysis in Jupyter notebook
+├── Presentation.pdf                <- PDF version of project presentation
+└── README.md.                      <- README for reviewers of this project
+
+```
 
 
  
