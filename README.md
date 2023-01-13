@@ -45,7 +45,7 @@ So what does this mean for Lululemon? At some level of accuracy they can identif
 So Lululemon can take the information relay back to the customer and informed their user if they are accuratley doing the pose. Lululemon also gains reliable data and can add new sales growth opportunities with this data at the same exact time it would allow us to gather up more images for future projects , such as ,segmentation leading to virtual Try on for clothing, accessories and other items improving user experience. Other uses could include face recognition which could enable current contactless payments with one's face as a proof.
 
 ## For More Information
-Please review my full analysis in [my Jupyter Notebook](https://github.com/DSEDDIE/lulu_multi_image_proj/blob/main/Lululemon%20final%20notebook.ipynb) or my [presentation]().
+Please review my full analysis in [my Jupyter Notebook](https://github.com/DSEDDIE/lulu_multi_image_proj/blob/main/Lululemon%20final%20notebook.ipynb) or my [presentation](https://github.com/DSEDDIE/lulu_multi_image_proj/blob/main/Presentation.pdf).
  
 For any additional questions, please contact 
 
